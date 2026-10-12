@@ -9,7 +9,6 @@ def check_sites():
         "https://www.binance.com/en",
         "https://moodle-tomtit.tomsk.ru/",
         "https://jsonplaceholder.typicode.com/",
-        "https://moodle.tomtit-tomsk.ru/"
     ]
 
     text_box.delete("1.0", tk.END)
